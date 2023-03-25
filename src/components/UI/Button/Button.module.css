@@ -1,0 +1,25 @@
+.block_btn{
+    padding: 0 0 90px 35px;
+}
+
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 209px;
+    height: 56px;
+    border-radius: 12px;
+    padding: 18px 48px;
+    background: #3F2AFF;
+    outline: none;
+    border: none;   
+    cursor: pointer;
+    /* Текст */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
